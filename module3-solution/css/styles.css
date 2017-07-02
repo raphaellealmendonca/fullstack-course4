@@ -13,11 +13,6 @@ body {
 
 }
 
-#collapsable-nav {
-  border: 2px solid black;
-  background-color: #FFFFFF
-}
-
 .navbar-default .navbar-toggle {
   border-color: #000000;
 }
